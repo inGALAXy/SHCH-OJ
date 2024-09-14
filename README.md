@@ -1,2 +1,2 @@
 # SHCH-OJ
-## SHCH Online Judge
+SHCH Online Judge
